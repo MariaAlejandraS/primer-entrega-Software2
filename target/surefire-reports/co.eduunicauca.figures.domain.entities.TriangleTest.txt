@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: co.eduunicauca.figures.domain.entities.TriangleTest
+-------------------------------------------------------------------------------
+Tests run: 32, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.125 s -- in co.eduunicauca.figures.domain.entities.TriangleTest
